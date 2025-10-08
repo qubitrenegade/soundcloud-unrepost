@@ -1,5 +1,3 @@
-```javascript
-/*
 README: SoundCloud Un-Repost Script
 ====================================
 
@@ -53,8 +51,7 @@ entirely at your own risk.
 
 *Lasciate ogne speranza, voi ch'intrate.*
 
-*/
-
+```javascript
 (async () => {
   //================================================================================
   // SCRIPT CONFIGURATION - Change these values to your liking
